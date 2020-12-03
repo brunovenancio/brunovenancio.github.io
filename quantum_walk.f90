@@ -1,3 +1,6 @@
+test teste 
+
+
 program qrw_finite_lattice
 
 use parametros 
